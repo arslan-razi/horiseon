@@ -91,50 +91,19 @@ p {
     background-color: #2589bd;
 }
 
-/* Tried to consolidte these 3 classes into 1 but it did not work */
-.benefit-lead {
+/* Consolidated 3 classes into 1 */
+
+.benefits-right-column {
     margin-bottom: 32px;
     color: var(--white);
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: var(--white);
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: var(--white);
-}
-
-.benefit-lead h3 {
+.benefits-right-column h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+.benefits-right-column img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -150,13 +119,10 @@ p {
     color: var(--white);
 }
 
-/* Consolidated 3 classes into 1 */
-
 .services img {
     max-height: 200px;
 }
 
-/* Consolidated 3 classes into 1 */
 .services h2 {
     margin-bottom: 20px;
     font-size: 36px;
