@@ -5,7 +5,7 @@
 ### HTML & CSS
 
 Getting Started
-### To get started you just need to visit the company url
+### To get started you just need to visit the company url https://arslan-razi.github.io/horiseon/
 
 Usage
 ### This website serves as a landing page for Horiseon's own marketing 
